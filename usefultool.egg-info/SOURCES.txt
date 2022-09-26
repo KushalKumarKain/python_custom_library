@@ -1,0 +1,7 @@
+setup.py
+usefultool/__init__.py
+usefultool/functionality.py
+usefultool.egg-info/PKG-INFO
+usefultool.egg-info/SOURCES.txt
+usefultool.egg-info/dependency_links.txt
+usefultool.egg-info/top_level.txt
